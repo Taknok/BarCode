@@ -1,2 +1,2 @@
 # Code_Barre
-Implementation if an 2d detector of barcode in Matlab
+Implementation of 2d barcode detector in Matlab
